@@ -1,7 +1,7 @@
 # House of War
 
 ## *Ordo Ab Chao, Lucrum Ex Nihilo*
-(Order from Chaos, Profit from Nothing)
+
 
 ---
 
